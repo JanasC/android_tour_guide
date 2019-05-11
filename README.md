@@ -10,7 +10,7 @@ Created the New York tour guide app which presents relevant information to a use
 - ViewPager, Fragments.
 
 # Screenshot
-<img src="screenshots/screenshot1.png" width="320">
+<img src="screenshots/screenshot.png" width="320">
 
 <pre>PROJECT LICENSE
 
