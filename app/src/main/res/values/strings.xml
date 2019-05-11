@@ -1,0 +1,78 @@
+<!--
+  ~ PROJECT LICENSE
+  ~
+  ~ This project was submitted by Janas Chatkevicius as part of the Nanodegree At Udacity.
+  ~
+  ~ As part of Udacity Honor code, your submissions must be your own work, hence
+  ~ submitting this project as yours will cause you to break the Udacity Honor Code
+  ~ and the suspension of your account.
+  ~
+  ~ Me, the author of the project, allow you to check the code as a reference, but if
+  ~ you submit it, it's your own responsibility if you get expelled.
+  ~
+  ~ Copyright (c) 2018 Janas Chatkevicius
+  ~
+  ~ Besides the above notice, the following license applies and this license notice
+  ~ must be included in all works derived from this project.
+  ~
+  ~ MIT License
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">New York Tour Guide!</string>
+    <string name="statue_of_liberty_name">Statue of Liberty</string>
+    <string name="statue_of_liberty_rating">Rating: 5: Reviews 1325</string>
+    <string name="central_park_name">Central Park</string>
+    <string name="central_park_rating">Rating: 4.5: Reviews 2718</string>
+    <string name="empire_state_name">Empire State Building</string>
+    <string name="empire_state_rating">Rating: 4.3: Reviews 718</string>
+    <string name="pizza_name">New York-style pizza</string>
+    <string name="pizza_rating">Rating: 5: Reviews 2323</string>
+    <string name="cheesecake_name">New York-style cheesecake</string>
+    <string name="cheesecake_rating">Rating: 4.1: Reviews 1232</string>
+    <string name="bagel_name">New York-style bagel</string>
+    <string name="cheese_cake_rating">Rating: 4.2: Reviews 5598</string>
+    <string name="pretzel_name">Baked pretzels</string>
+    <string name="pretzel_rating">Rating: 5: Reviews 533</string>
+    <string name="memorial_name"><![CDATA[The National 9/11 Memorial & Museum]]></string>
+    <string name="memorial_rating">Rating: 4.3: Reviews 718</string>
+    <string name="moma_name">The Museum of Modern Art (MoMA)</string>
+    <string name="moma_rating">Rating: 5: Reviews 598</string>
+    <string name="american_museum_name">American Museum of Natural History</string>
+    <string name="american_museum_rating">Rating: 4.7: Reviews 653</string>
+    <string name="guggenheim_name">Solomon R. Guggenheim Museum</string>
+    <string name="guggenheim_rating">Rating: 4.1: Reviews 7982</string>
+    <string name="battery_park_name">Battery Park</string>
+    <string name="battery_park_rating">Rating: 4: Reviews 1698</string>
+    <string name="bryant_park_name">Bryant Park</string>
+    <string name="bryant_park_rating">Rating: 4: Reviews 100</string>
+    <string name="carl_schurz_park_name">Carl Schurz Park</string>
+    <string name="carl_schurz_park_rating">Rating: 4: Reviews 200</string>
+    <string name="washington_park_name">Washington Square Park</string>
+    <string name="washington_park_rating">Rating: 4.5: Reviews 400</string>
+    <string name="high_line_name">High Line</string>
+    <string name="high_line_rating">Rating: 4.9: Reviews 5698</string>
+    <string name="image_description">image</string>
+    <string name="must_see_name">Must See</string>
+    <string name="museums_name">Museums</string>
+    <string name="parks_name">Parks</string>
+    <string name="food_name">Food</string>
+</resources>
